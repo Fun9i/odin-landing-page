@@ -128,11 +128,51 @@ main {
     margin: 6rem auto;
 }
 
-.text_author {
+.quote_author {
     font-size: 1.5rem;
     font-weight: 700;
     text-align: right;
     margin-right: 400px;
     position: relative;
     bottom: 75px;
+}
+
+.main_section3_container {
+    background-color: #3882f6;
+    margin: 75px auto;
+    max-width: 70%;
+    min-height: 150px;
+    border-radius: 10px;
+}
+
+.main_section3_text_container {
+    color: #e5e7eb;
+}
+
+.main_section3_header {
+    font-size: 1.7rem;
+    position: relative;
+    left: 148px;
+    top: 45px;
+}
+
+.main_section3_text {
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin: 45px auto 0 150px;
+}
+
+.main_section3_btn {
+    background-color: transparent;
+    border-radius: 5px;
+    color: #e5e7eb;
+    box-shadow: none;
+    border: 2px solid #e5e7eb;
+    min-height: 2rem;
+    min-width: 8rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    position: relative;
+    left: 60rem;
+    bottom: 35px;
 }
