@@ -172,3 +172,17 @@ main {
     left: 60rem;
     bottom: 35px;
 }
+
+footer {
+    background-color: #1f2937;
+    margin: 0;
+    position: absolute;
+    min-height: 100px;
+    width: 100%;
+    color: #e5e7eb;
+    text-align: center;
+}
+
+.footer_text {
+    margin: 40px auto 0;
+}
